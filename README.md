@@ -6,6 +6,7 @@ The objective of this task is to understand what makes a password strong and eva
 🛠 Tool Used
 
 Online Password Strength Checker
+Website: PasswordMeter (https://passwordmeter.com)
 
 🔎 Passwords Tested and Results
 Password	Strength Level	Reason
