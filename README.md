@@ -15,7 +15,9 @@ elevate123	Weak	Contains lowercase letters and numbers but predictable
 elevate@123	Medium	Includes lowercase letters, numbers, and symbol but still predictable
 El3v@t3#2026	Strong	Uses uppercase, lowercase, numbers, and symbols
 elevate labs!cloud@2112	Very Strong	Long length, multiple words, symbols, numbers, high complexity
+
 📊 Analysis of Results
+
 1️⃣ Very Weak Password – 12345
 
 Extremely short
